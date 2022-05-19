@@ -1,1 +1,2 @@
 # java_projects
+Implementing inheritance and polymorphism. Modelling parts of a small economy, namely the food service industry. Modelling places where customers can buy food: restaurants, food stands, and fast food. Modelling the payment of bills, including sales tax and tip. Also modelling a tax collector who collects both sales tax and income tax. Only model one year: the workers each have some income and pay tax for that year.
